@@ -1,0 +1,3 @@
+id_venta,fecha,id_cliente,producto,total
+1,2024-05-01,101,Laptop,750.00
+2,2024-05-02,102,Mouse,31.00
